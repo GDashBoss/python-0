@@ -34,3 +34,24 @@ reset = '\033[0m'
 
 clear = '\033[H\033[2J'
 
+if __name__ == '__main__':
+    print(clear)
+    print(base03 + 'base03' + reset, end=' ')
+    print( + reset, end=' ' )
+    print( )
+    print( )
+    print( )
+    print( )
+    print( )
+    print( )
+    print( )
+    print( )
+    print( )
+    print( )
+    print( )
+    print( )
+    print(     )
+    print(     )
+    print(     )
+    print(     )
+
